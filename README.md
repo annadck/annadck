@@ -1,6 +1,6 @@
-👋 Hi, I’m @annadck
-👀 I’m interested in effective ed-tech & crypto.
-🌱 I’m currently busy.
+- 👋 Hi, I’m @annadck
+- 👀 Interested in effective ed-tech & crypto.
+- 🌱 Currently busy.
 
 <!---
 annadck/annadck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
